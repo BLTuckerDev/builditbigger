@@ -1,16 +1,16 @@
 package com.udacity.gradle.builditbigger;
 
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
+import dev.bltucker.androidjokes.JokeActivity;
 import dev.bltucker.jokes.JokeProvider;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,9 +41,7 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void tellJoke(View view){
-        Toast.makeText(this, JokeProvider.getJoke(), Toast.LENGTH_SHORT).show();
+    public void launchJokeActivity(View view) {
+        JokeActivity.launch(this, JokeProvider.getJoke());
     }
-
-
 }
