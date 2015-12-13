@@ -7,10 +7,11 @@ import android.view.MenuItem;
 import android.view.View;
 
 import dev.bltucker.androidjokes.JokeActivity;
-import dev.bltucker.jokes.JokeProvider;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements JokeRetriever.JokeRetrieverDelegate{
+
+    private JokeRetriever jokeRetriever;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,6 +19,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        if(jokeRetriever != null){
+            this.jokeRetriever.removeDelegate();
+        }
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -41,7 +50,23 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void launchJokeActivity(View view) {
-        JokeActivity.launch(this, JokeProvider.getJoke());
+    public void onTellJokeClick(View view){
+        //start the async task here.
+        if(jokeRetriever != null){
+            return;
+        }
+
+        jokeRetriever = new JokeRetriever(this);
+        jokeRetriever.execute();
+
+    }
+
+
+    @Override
+    public void handleJoke(String joke) {
+
+        this.jokeRetriever = null;
+
+        JokeActivity.launch(this, joke);
     }
 }

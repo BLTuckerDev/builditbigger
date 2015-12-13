@@ -2,102 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-8bc4f99ebe2b86375edb9de35e973595d7ea4784.jar" />
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.19.0-fbea1ddc05d0ea71861a6e8169a9af376f710da2.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/builditbigger/androidjokes/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-0e92bb2d9dc090d1a974871e917800e0e0232c03.jar" />
+        sha1="a14fa97f3509d5e92afaaa60cac1fce430a2b66a">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-f1666d1c5b57dedcf41152002425d39b5ee36769.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-8d072e9ca0c143cd212bd8ccae27333a1606ea17.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-d3932834b53d8fbd85df247070e204b91b0f1b1c.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-817a13daa5c430157b5ce7777fedb3aab96ca10f.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-cb51555a6f3a6a0ad184d74217253fcc6f183bb5.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-bfdaaf033f0cb9b92497fbc77aab456f4edb2c2c.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-9eaaae7484c8893618e63c56c35483366c037f9b.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-d3d1c62c650a2e4593103f17a1a53ba3976d875c.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-8d072e9ca0c143cd212bd8ccae27333a1606ea17.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-b9ccb1db005e6a3699a3e24475735bd0acbf6112.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-118a1768eedb6bc02ad0409aae9290be47d47c07.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-d3932834b53d8fbd85df247070e204b91b0f1b1c.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-39e9d2fc85152e569d2dc60d09b7bc07d4719a64.jar" />
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-af228cdbc6dc85927780fb0a71ec222471ef9bee.jar" />
     </item>
     <item
         jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
@@ -107,125 +30,6 @@
         <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-338f974199731ffe4b2bd0e86bbc85307692eaa1.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-12bdcf4fde0ccbb78ddcbf925982ad51fee76e52.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-369352a6762b5419bee4671298f9fc55f74813d8.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-cb51555a6f3a6a0ad184d74217253fcc6f183bb5.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-0736a01ce4467ccc4184fe8aa5f872e1cf77a6a2.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-9eaaae7484c8893618e63c56c35483366c037f9b.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-0736a01ce4467ccc4184fe8aa5f872e1cf77a6a2.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/jokeslib/build/libs/jokeslib.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5649d05ca4a2dc61bfadef79657caca842385fa5">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/jokeslib-dcb9ba8d61aef445379c590bd2e9d5832b7a979b.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-b9ccb1db005e6a3699a3e24475735bd0acbf6112.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-238947f0c55e3227c1632c224212d8faf557b25a.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-39e9d2fc85152e569d2dc60d09b7bc07d4719a64.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-c479e0d9158e00c1792b023628fe46946e56e62a.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-0e92bb2d9dc090d1a974871e917800e0e0232c03.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-c479e0d9158e00c1792b023628fe46946e56e62a.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-03f3246db0d5591811ee63bdf82f54478edba4f0.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-1e441ed54f79fc4cd28431fcc6b8cb7f783236e8.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-0372cc7f3e6a400ea2fb988c32f33ad7cd8cc38a.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="565a01f90f1529f73362707c4c185d0623a68782">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-c181819b335c4a306e3023568f44e1fed27ceed7.jar" />
-    </item>
-    <item
         jar="/home/brett/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -233,74 +37,74 @@
         <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-f9c8ad0f202cedb686c499a0f4fe876308f2e9f6.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="565a01f90f1529f73362707c4c185d0623a68782">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-c181819b335c4a306e3023568f44e1fed27ceed7.jar" />
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-8bc4f99ebe2b86375edb9de35e973595d7ea4784.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-238947f0c55e3227c1632c224212d8faf557b25a.jar" />
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-dd1c628d4f58235764082843c9c1a9c65c602ded.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-bfdaaf033f0cb9b92497fbc77aab456f4edb2c2c.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-118a1768eedb6bc02ad0409aae9290be47d47c07.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jar="/home/brett/gitrepos/builditbigger/backend/build/libs/backend-android-endpoints.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-817a13daa5c430157b5ce7777fedb3aab96ca10f.jar" />
+        sha1="215375f69cb8291d6a258915b7cc296a74e5c5bd">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/backend-android-endpoints-3c60e31cefb958df51252e1cdd5cbefd45e9fdf9.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-03f3246db0d5591811ee63bdf82f54478edba4f0.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-0372cc7f3e6a400ea2fb988c32f33ad7cd8cc38a.jar" />
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-e0bbb9f430a02dcc1bb4f7abd655ae6e03eeb24c.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-369352a6762b5419bee4671298f9fc55f74813d8.jar" />
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/google-api-client-1.19.0-4ebfe1bacdc1c39a906a3af9360beaaa46a0189e.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/jokeslib/build/libs/jokeslib.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="71f5391b03117acb421460367db073fd8e31387f">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/jokeslib-dcb9ba8d61aef445379c590bd2e9d5832b7a979b.jar" />
+        revision="23.0.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.19.0-284214cf4284ab96fa8b598072f397737df0b67c.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-1e441ed54f79fc4cd28431fcc6b8cb7f783236e8.jar" />
+        revision="23.0.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.19.0-5f0b2f38959c320d196008e12852feecfa32b01a.jar" />
+    </item>
+    <item
+        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-247a3895f190b0e5291735a20f90f058f3f919b7.jar" />
+    </item>
+    <item
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-12d03e9aff7a5978448e26827453753acfa61f06.jar" />
+    </item>
+    <item
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/google-http-client-1.19.0-009962b1c4a4c1d5d98a5ce0233e13ad512c6e9c.jar" />
     </item>
     <item
         jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
@@ -310,25 +114,11 @@
         <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-8e572be6a725f5631e35836911a32aee4773efe1.jar" />
     </item>
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-d3d1c62c650a2e4593103f17a1a53ba3976d875c.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-12bdcf4fde0ccbb78ddcbf925982ad51fee76e52.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/builditbigger/androidjokes/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a14fa97f3509d5e92afaaa60cac1fce430a2b66a">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/classes-f1666d1c5b57dedcf41152002425d39b5ee36769.jar" />
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.19.0-1713b57df65d0733f96dd005787c93270e86cae7.jar" />
     </item>
 
 </items>
