@@ -13,10 +13,13 @@ public class MainActivity extends AppCompatActivity implements JokeRetriever.Jok
 
     private JokeRetriever jokeRetriever;
 
+    private ProgressSpinnerFragment spinnerFragment;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        spinnerFragment = ProgressSpinnerFragment.newInstance();
     }
 
 
@@ -56,6 +59,11 @@ public class MainActivity extends AppCompatActivity implements JokeRetriever.Jok
             return;
         }
 
+        getSupportFragmentManager()
+                .beginTransaction()
+                .add(R.id.main_activity_frame_layout, spinnerFragment)
+                .commit();
+
         jokeRetriever = new JokeRetriever(this);
         jokeRetriever.execute();
 
@@ -68,5 +76,9 @@ public class MainActivity extends AppCompatActivity implements JokeRetriever.Jok
         this.jokeRetriever = null;
 
         JokeActivity.launch(this, joke);
+        getSupportFragmentManager()
+                .beginTransaction()
+                .remove(spinnerFragment)
+                .commit();
     }
 }
