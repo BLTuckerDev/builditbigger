@@ -30,4 +30,4 @@
 *.ipr
 *.iws
 
-**/build/**
+backend/build/**
