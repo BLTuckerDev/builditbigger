@@ -2,60 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/classes-338f974199731ffe4b2bd0e86bbc85307692eaa1.jar" />
-    </item>
-    <item
-        jar="/home/brett/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/support-annotations-23.1.0-f9c8ad0f202cedb686c499a0f4fe876308f2e9f6.jar" />
-    </item>
-    <item
-        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/jsr305-1.3.9-dd1c628d4f58235764082843c9c1a9c65c602ded.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/internal_impl-23.1.0-8e572be6a725f5631e35836911a32aee4773efe1.jar" />
-    </item>
-    <item
-        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/jackson-core-2.1.3-e0bbb9f430a02dcc1bb4f7abd655ae6e03eeb24c.jar" />
-    </item>
-    <item
-        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/google-http-client-jackson2-1.19.0-fbea1ddc05d0ea71861a6e8169a9af376f710da2.jar" />
-    </item>
-    <item
-        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/google-api-client-1.19.0-4ebfe1bacdc1c39a906a3af9360beaaa46a0189e.jar" />
-    </item>
-    <item
-        jar="/home/brett/gitrepos/builditbigger/backend/build/libs/backend-android-endpoints.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ea7099ab5a882ed011c8d207ada0d7d2c901679e">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/backend-android-endpoints-3c60e31cefb958df51252e1cdd5cbefd45e9fdf9.jar" />
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/google-http-client-1.19.0-009962b1c4a4c1d5d98a5ce0233e13ad512c6e9c.jar" />
     </item>
     <item
         jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
@@ -65,39 +16,53 @@
         <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/classes-af228cdbc6dc85927780fb0a71ec222471ef9bee.jar" />
     </item>
     <item
-        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/google-oauth-client-1.19.0-5f0b2f38959c320d196008e12852feecfa32b01a.jar" />
-    </item>
-    <item
         jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="e3f11020c2c812112803d252d1392872d3f619c8">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/google-http-client-android-1.19.0-284214cf4284ab96fa8b598072f397737df0b67c.jar" />
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/google-http-client-android-1.19.0-284214cf4284ab96fa8b598072f397737df0b67c.jar" />
     </item>
     <item
         jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/builditbigger/androidjokes/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="012df561b12ca23f967157408be9ed1be2b35447">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/classes-f1666d1c5b57dedcf41152002425d39b5ee36769.jar" />
-    </item>
-    <item
-        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/google-api-client-android-1.19.0-1713b57df65d0733f96dd005787c93270e86cae7.jar" />
+        sha1="022c53df7d770fac45f3b0c2d516abdf4863ac98">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/classes-f1666d1c5b57dedcf41152002425d39b5ee36769.jar" />
     </item>
     <item
         jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/guava-jdk5-13.0-12d03e9aff7a5978448e26827453753acfa61f06.jar" />
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/guava-jdk5-13.0-12d03e9aff7a5978448e26827453753acfa61f06.jar" />
+    </item>
+    <item
+        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/internal_impl-23.1.0-8e572be6a725f5631e35836911a32aee4773efe1.jar" />
+    </item>
+    <item
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/google-api-client-android-1.19.0-1713b57df65d0733f96dd005787c93270e86cae7.jar" />
+    </item>
+    <item
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/google-http-client-jackson2-1.19.0-fbea1ddc05d0ea71861a6e8169a9af376f710da2.jar" />
+    </item>
+    <item
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/google-api-client-1.19.0-4ebfe1bacdc1c39a906a3af9360beaaa46a0189e.jar" />
     </item>
     <item
         jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
@@ -107,18 +72,53 @@
         <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/classes-247a3895f190b0e5291735a20f90f058f3f919b7.jar" />
     </item>
     <item
-        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/google-http-client-1.19.0-009962b1c4a4c1d5d98a5ce0233e13ad512c6e9c.jar" />
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/google-oauth-client-1.19.0-5f0b2f38959c320d196008e12852feecfa32b01a.jar" />
     </item>
     <item
         jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/free/debug/classes-8bc4f99ebe2b86375edb9de35e973595d7ea4784.jar" />
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/classes-8bc4f99ebe2b86375edb9de35e973595d7ea4784.jar" />
+    </item>
+    <item
+        jar="/home/brett/gitrepos/builditbigger/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a89728dc6af5b67b5df5217b46bd101f961d03c1">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/backend-android-endpoints-3c60e31cefb958df51252e1cdd5cbefd45e9fdf9.jar" />
+    </item>
+    <item
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/jackson-core-2.1.3-e0bbb9f430a02dcc1bb4f7abd655ae6e03eeb24c.jar" />
+    </item>
+    <item
+        jar="/home/brett/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/jsr305-1.3.9-dd1c628d4f58235764082843c9c1a9c65c602ded.jar" />
+    </item>
+    <item
+        jar="/home/brett/gitrepos/builditbigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/classes-338f974199731ffe4b2bd0e86bbc85307692eaa1.jar" />
+    </item>
+    <item
+        jar="/home/brett/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/brett/gitrepos/builditbigger/app/build/intermediates/pre-dexed/paid/debug/support-annotations-23.1.0-f9c8ad0f202cedb686c499a0f4fe876308f2e9f6.jar" />
     </item>
 
 </items>
