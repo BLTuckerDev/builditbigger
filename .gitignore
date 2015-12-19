@@ -31,7 +31,7 @@
 *.iws
 
 backend/build/**
-build/
+build/**
 .gradle
 .gradletasknamecache
 local.properties
