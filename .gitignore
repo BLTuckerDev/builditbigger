@@ -31,3 +31,6 @@
 *.iws
 
 backend/build/**
+build/
+.gradle
+.gradletasknamecache
