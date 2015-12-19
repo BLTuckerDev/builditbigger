@@ -34,3 +34,5 @@ backend/build/**
 build/
 .gradle
 .gradletasknamecache
+local.properties
+
